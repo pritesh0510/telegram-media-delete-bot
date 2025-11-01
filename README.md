@@ -1,0 +1,1 @@
+# Telegram Auto Media Delete Bot\n\nThis bot automatically deletes photos and videos after 5 hours in your group.
